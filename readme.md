@@ -1,6 +1,6 @@
 #readme
 
-#adeola kay
+proper
 
 an educational and tourism website
 
